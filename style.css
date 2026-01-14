@@ -1,0 +1,112 @@
+body {
+    background-color: black;
+}
+
+.neonText {
+  color: #cd93cb;
+  text-shadow:
+    0 0 7px #e40ec0,
+    0 0 10px #df08bc,
+    0 0 21px #e00e93,
+    0 0 42px rgb(252, 252, 252);
+    0 0 82px rgb(252, 252, 252);
+    0 0 92px rgb(252, 252, 252);
+    0 0 102px rgb(252, 252, 252);
+    0 0 151px rgb(252, 252, 252);
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: 60px;
+
+
+    border: 0.2rem solid #db68c7;
+    padding: 0.4em;
+    border-radius: 2rem;
+
+    max-width: 400px;
+    margin: 2rem auto;  
+
+    box-shadow: 0 0 .4rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #c257b7,
+              0 0 0.8rem #e9dce9,
+              0 0 2.8rem #530257,
+              inset 0 0 1.3rem #bf2ec4;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.cell{
+
+    width: 75px;
+
+    height: 75px;
+
+    border: 2px solid;
+
+    box-shadow: 0 0 0 2px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    font-size: 60px;
+
+    cursor: pointer;
+
+}
+
+#gameContainer{
+
+    font-family: "Permanent Marker", cursive;
+
+    text-align: center;
+
+}
+
+#cellContainer{
+
+    display: grid;
+
+    grid-template-columns: repeat(3, auto);
+
+    width: 225px;
+
+    margin: auto;
+
+}
+
+#resetBtn {
+    color: #a811b0;
+
+    width: 90px;
+    text-align: center;
+    font-family: "Tilt Neon", sans-serif;
+    font-size: 15px;
+
+    display: block;
+    margin: 1.5rem auto;
+
+    border: 0.02rem solid #db68c7;
+    padding: 0.34em;
+    border-radius: 0.4rem;
+
+    box-shadow: 0 0 .4rem #ffffff,
+              0 0 .2rem #ffffff,
+              0 0 2rem #c257b7,
+              0 0 0.8rem #e9dce9,
+              0 0 2.8rem #530257,
+              inset 0 0 1.3rem #bf2ec4;
+}
