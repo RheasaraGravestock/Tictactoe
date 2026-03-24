@@ -69,6 +69,7 @@ In the future I would love to expand this project by adding the following featur
 ---
 
 ## Screenshot
+![Game Screenshot] (Tictactoe/Screenshot 2026-03-24 at 15.23.26.png)
 
 
 
