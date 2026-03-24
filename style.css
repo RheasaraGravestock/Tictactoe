@@ -9,10 +9,6 @@ body {
     0 0 10px #df08bc,
     0 0 21px #e00e93,
     0 0 42px rgb(252, 252, 252);
-    0 0 82px rgb(252, 252, 252);
-    0 0 92px rgb(252, 252, 252);
-    0 0 102px rgb(252, 252, 252);
-    0 0 151px rgb(252, 252, 252);
 }
 
 
@@ -20,14 +16,14 @@ body {
 h1 {
     text-align: center;
     font-family: "Tilt Neon", sans-serif;
-    font-size: 60px;
+    font-size: 70px;
 
 
     border: 0.2rem solid #db68c7;
     padding: 0.4em;
     border-radius: 2rem;
 
-    max-width: 400px;
+    max-width: 500px;
     margin: 2rem auto;  
 
     box-shadow: 0 0 .4rem #fff,
@@ -44,14 +40,14 @@ h2 {
 
 p {
     text-align: center;
-    font-size: 20px;
+    font-size: 35px;
 }
 
 .cell{
 
-    width: 75px;
+    width: 85px;
 
-    height: 75px;
+    height: 85px;
 
     border: 2px solid;
 
@@ -62,17 +58,9 @@ p {
     justify-content: center;
 
 
-    font-size: 60px;
+    font-size: 70px;
 
     cursor: pointer;
-
-}
-
-#gameContainer{
-
-    font-family: "Permanent Marker", cursive;
-
-    text-align: center;
 
 }
 
@@ -82,7 +70,7 @@ p {
 
     grid-template-columns: repeat(3, auto);
 
-    width: 225px;
+    width: 270px;
 
     margin: auto;
 
@@ -91,10 +79,10 @@ p {
 #resetBtn {
     color: #a811b0;
 
-    width: 90px;
+    width: 150px;
     text-align: center;
     font-family: "Tilt Neon", sans-serif;
-    font-size: 15px;
+    font-size: 20px;
 
     display: block;
     margin: 1.5rem auto;
