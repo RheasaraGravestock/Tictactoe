@@ -58,7 +58,7 @@ In the future I would love to expand this project by adding the following featur
 
 
 ## How to run the project
-1. Clone this repository: git clone 
+1. Clone this repository: git clone https://github.com/RheasaraGravestock/Tictactoe.git 
 2. Open the project folder
 3. Open the index.html in your browser by:
    -Double clicking
