@@ -58,7 +58,7 @@ In the future I would love to expand this project by adding the following featur
 
 
 ## How to run the project
-1. Clone this repository: git clone https://rheasaragravestock.github.io/Tictactoe/
+1. Clone this repository: git clone 
 2. Open the project folder
 3. Open the index.html in your browser by:
    -Double clicking
@@ -69,7 +69,7 @@ In the future I would love to expand this project by adding the following featur
 ---
 
 ## Screenshot
-![Game Screenshot](Screenshot 2026-03-24 at 15.23.26.png)
+![Game Screenshot](Screenshot%2026-03-24%at%15.23.26.png)
 
 
 
