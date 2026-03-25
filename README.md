@@ -68,7 +68,7 @@ In the future I would love to expand this project by adding the following featur
 
 ---
 
-## Screenshot
+## Screenshot of the game
 ![Game Screenshot](screenshot.png)
 
 
