@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game 🎮
 
 ## Overview
 This is a browser-based Tic Tac Toe game I built using HTML, CSS, and JavaScript, using a fun, pink, neon theme. Two players can take turns selecting cells, and the game automatically detects a winner or a draw. The player can then choose to reset the game and play again!
